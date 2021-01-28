@@ -55,10 +55,10 @@ double function(double x){
 //derivative
 double dfunction(double x){
     
-  //  double efun = pow(EulerConstant, x);
-  //  double xpow = pow(2, -x);
-  //  double cosin = 2*cos(x);
-  //  double constant = -6;
+  // double efun = pow(EulerConstant, x);
+  // double xpow = pow(2, -x);
+  // double cosin = 2*cos(x);
+  // double constant = -6;
   // double cube = pow(x, 3);
   // double cosin = cos(x);
   // double squareRoot = sqrt(x);
